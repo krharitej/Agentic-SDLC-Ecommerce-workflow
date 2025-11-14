@@ -1,0 +1,61 @@
+product_id,name,category,price
+2000,Noise-Canceling Headphones,Electronics,188.57
+2001,4K Monitor,Electronics,581.69
+2002,Smart Speaker,Electronics,353.82
+2003,Wireless Mouse,Electronics,332.18
+2004,Mechanical Keyboard,Electronics,452.57
+2005,Air Fryer,Home & Kitchen,48.44
+2006,Espresso Machine,Home & Kitchen,356.74
+2007,Robot Vacuum,Home & Kitchen,309.17
+2008,Ceramic Cookware Set,Home & Kitchen,513.84
+2009,Weighted Blanket,Home & Kitchen,107.1
+2010,Adjustable Dumbbells,Fitness,577.06
+2011,Yoga Mat,Fitness,61.87
+2012,Smart Fitness Watch,Fitness,123.71
+2013,Foam Roller,Fitness,363.1
+2014,Resistance Bands,Fitness,410.0
+2015,Vitamin C Serum,Beauty,152.59
+2016,Moisturizing Cream,Beauty,85.13
+2017,Face Cleanser,Beauty,535.82
+2018,Hair Dryer,Beauty,159.04
+2019,Sunscreen SPF50,Beauty,362.79
+2020,Insulated Water Bottle,Outdoors,377.34
+2021,Camping Tent,Outdoors,260.25
+2022,Hiking Backpack,Outdoors,356.45
+2023,Portable Grill,Outdoors,320.83
+2024,LED Lantern,Outdoors,561.8
+2025,STEM Building Kit,Toys & Games,134.49
+2026,Strategy Board Game,Toys & Games,433.97
+2027,RC Drone,Toys & Games,154.63
+2028,Puzzle Box,Toys & Games,246.53
+2029,Learning Tablet,Toys & Games,407.94
+2031,Weighted Blanket (Bundle),Home & Kitchen,105.73
+2032,Learning Tablet (Bundle),Toys & Games,438.76
+2033,Mechanical Keyboard (Bundle),Electronics,385.95
+2034,Espresso Machine (Bundle),Home & Kitchen,311.07
+2035,Foam Roller (Bundle),Fitness,363.74
+2036,Ceramic Cookware Set (Bundle),Home & Kitchen,580.63
+2037,Mechanical Keyboard (Bundle),Electronics,504.06
+2038,Portable Grill (Bundle),Outdoors,300.14
+2039,Puzzle Box (Bundle),Toys & Games,271.21
+2040,Sunscreen SPF50 (Bundle),Beauty,374.94
+2041,Espresso Machine (Bundle) (Bundle),Home & Kitchen,265.14
+2042,Ceramic Cookware Set (Bundle) (Bundle),Home & Kitchen,545.68
+2043,Espresso Machine (Bundle),Home & Kitchen,403.72
+2044,Ceramic Cookware Set (Bundle),Home & Kitchen,477.53
+2045,Espresso Machine (Bundle),Home & Kitchen,382.68
+2046,Weighted Blanket (Bundle),Home & Kitchen,99.79
+2047,Puzzle Box (Bundle) (Bundle),Toys & Games,247.67
+2048,Camping Tent (Bundle),Outdoors,237.11
+2049,Espresso Machine (Bundle) (Bundle) (Bundle),Home & Kitchen,293.21
+2050,Mechanical Keyboard (Bundle) (Bundle),Electronics,384.62
+2051,Wireless Mouse (Bundle),Electronics,291.55
+2052,RC Drone (Bundle),Toys & Games,169.91
+2053,Smart Speaker (Bundle),Electronics,301.12
+2054,Mechanical Keyboard (Bundle) (Bundle) (Bundle),Electronics,342.02
+2055,Moisturizing Cream (Bundle),Beauty,76.49
+2056,Puzzle Box (Bundle),Toys & Games,250.35
+2057,RC Drone (Bundle),Toys & Games,157.46
+2058,Robot Vacuum (Bundle),Home & Kitchen,269.77
+2059,RC Drone (Bundle) (Bundle),Toys & Games,166.48
+2060,Weighted Blanket (Bundle),Home & Kitchen,108.56

@@ -1,0 +1,81 @@
+user_id,name,email,age,city
+1001,Emma Smith,emma.smith1@example.com,65,Phoenix
+1002,Sophia Miller,sophia.miller2@example.com,26,Atlanta
+1003,Emma Green,emma.green3@example.com,23,Miami
+1004,Harper Johnson,harper.johnson4@example.com,19,Los Angeles
+1005,Mia Miller,mia.miller5@example.com,50,Miami
+1006,Ava Green,ava.green6@example.com,30,Atlanta
+1007,William Allen,william.allen7@example.com,32,Austin
+1008,Sebastian Wilson,sebastian.wilson8@example.com,69,Portland
+1009,Ava Martinez,ava.martinez9@example.com,62,Denver
+1010,Lucas Wilson,lucas.wilson10@example.com,27,Houston
+1011,Lucas Lee,lucas.lee11@example.com,23,Denver
+1012,Emma Hall,emma.hall12@example.com,40,Miami
+1013,Isabella Johnson,isabella.johnson13@example.com,64,Austin
+1014,William Lee,william.lee14@example.com,42,Los Angeles
+1015,William Clark,william.clark15@example.com,58,Miami
+1016,Charlotte Adams,charlotte.adams16@example.com,30,Atlanta
+1017,Noah Johnson,noah.johnson17@example.com,60,Houston
+1018,James Brown,james.brown18@example.com,32,Portland
+1019,Emma Young,emma.young19@example.com,35,Austin
+1020,Charlotte Martinez,charlotte.martinez20@example.com,41,Seattle
+1021,Mia Wilson,mia.wilson21@example.com,62,San Diego
+1022,Noah Baker,noah.baker22@example.com,58,Chicago
+1023,William Miller,william.miller23@example.com,28,Austin
+1024,Henry Wilson,henry.wilson24@example.com,58,Atlanta
+1025,William Miller,william.miller25@example.com,61,Seattle
+1026,Liam Miller,liam.miller26@example.com,70,New York
+1027,Lucas Young,lucas.young27@example.com,35,Los Angeles
+1028,Mia Adams,mia.adams28@example.com,63,Seattle
+1029,Mia King,mia.king29@example.com,43,San Diego
+1030,Amelia Garcia,amelia.garcia30@example.com,34,Chicago
+1031,Sophia Green,sophia.green31@example.com,52,Phoenix
+1032,Sebastian Allen,sebastian.allen32@example.com,55,Denver
+1033,Charlotte Miller,charlotte.miller33@example.com,26,Boston
+1034,Evelyn Brown,evelyn.brown34@example.com,66,New York
+1035,Emma Garcia,emma.garcia35@example.com,58,Chicago
+1036,Harper Baker,harper.baker36@example.com,22,Denver
+1037,Henry Baker,henry.baker37@example.com,47,Boston
+1038,Isabella Green,isabella.green38@example.com,18,San Francisco
+1039,Emma Green,emma.green39@example.com,66,Phoenix
+1040,Lucas Lee,lucas.lee40@example.com,36,Denver
+1041,Ethan Wright,ethan.wright41@example.com,18,Atlanta
+1042,Isabella Scott,isabella.scott42@example.com,66,Chicago
+1043,Benjamin Lee,benjamin.lee43@example.com,58,Phoenix
+1044,Benjamin Baker,benjamin.baker44@example.com,30,Chicago
+1045,Charlotte Martinez,charlotte.martinez45@example.com,52,Dallas
+1046,Benjamin Smith,benjamin.smith46@example.com,56,Seattle
+1047,Evelyn Smith,evelyn.smith47@example.com,25,San Diego
+1048,Charlotte Clark,charlotte.clark48@example.com,33,New York
+1049,Sophia Adams,sophia.adams49@example.com,23,Los Angeles
+1050,Evelyn Brown,evelyn.brown50@example.com,66,Boston
+1051,Olivia Garcia,olivia.garcia51@example.com,60,Austin
+1052,William Martinez,william.martinez52@example.com,34,Boston
+1053,Elijah Allen,elijah.allen53@example.com,31,San Diego
+1054,William Davis,william.davis54@example.com,63,Phoenix
+1055,Henry Hall,henry.hall55@example.com,46,San Diego
+1056,Benjamin Wright,benjamin.wright56@example.com,25,Houston
+1057,Sophia Brown,sophia.brown57@example.com,39,New York
+1058,Sebastian Green,sebastian.green58@example.com,32,Miami
+1059,Sophia Smith,sophia.smith59@example.com,22,Atlanta
+1060,Liam Miller,liam.miller60@example.com,22,San Diego
+1061,Liam Lopez,liam.lopez61@example.com,22,Boston
+1062,Sophia Wilson,sophia.wilson62@example.com,60,Austin
+1063,Mia Green,mia.green63@example.com,26,Atlanta
+1064,Sebastian Adams,sebastian.adams64@example.com,48,Houston
+1065,Evelyn Allen,evelyn.allen65@example.com,30,Los Angeles
+1066,Emma Allen,emma.allen66@example.com,40,Denver
+1067,Harper Wright,harper.wright67@example.com,64,New York
+1068,Emma Johnson,emma.johnson68@example.com,43,Atlanta
+1069,Lucas Lee,lucas.lee69@example.com,33,Houston
+1070,Mia Green,mia.green70@example.com,46,Chicago
+1071,Harper Martinez,harper.martinez71@example.com,35,Austin
+1072,Sophia Brown,sophia.brown72@example.com,46,Dallas
+1073,William Lee,william.lee73@example.com,21,San Francisco
+1074,William Smith,william.smith74@example.com,23,San Diego
+1075,Sophia Martinez,sophia.martinez75@example.com,44,Austin
+1076,Evelyn Davis,evelyn.davis76@example.com,43,San Diego
+1077,Liam Martinez,liam.martinez77@example.com,42,New York
+1078,Henry Wilson,henry.wilson78@example.com,68,Dallas
+1079,Amelia Clark,amelia.clark79@example.com,45,Atlanta
+1080,William King,william.king80@example.com,27,Houston
